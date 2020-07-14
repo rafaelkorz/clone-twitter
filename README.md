@@ -1,1 +1,3 @@
-# clone-twitter
+# Resultado final
+
+<img src="./.github/twitter.gif" />
