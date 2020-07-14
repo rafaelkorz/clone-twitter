@@ -1,3 +1,3 @@
 # Resultado final
 
-<img src="./.github/twitter.gif" />
+<img src="./.github/twitter.jpg" />
